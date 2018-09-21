@@ -1,0 +1,4 @@
+#Demostracion con Git
+**Paso 1**
+1. se crea un nuevo archivo en el repositorio.
+2. agregamos comentario en el archivo.
